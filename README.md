@@ -49,5 +49,5 @@ It's perfect for learning React, Next.js, TypeScript, and Tailwind CSS through a
 
 <h1 align="center">Project Picture : 🖼️</h1>
 <div align="center">
-  <img src="/pic1.png" width="300px" />
+  <img src="/pic1.png" width="700px" />
 </div>
