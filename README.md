@@ -47,9 +47,7 @@ It's perfect for learning React, Next.js, TypeScript, and Tailwind CSS through a
 
 <hr/>
 
-<h1 align="center">Project Screenshots : 🖼️</h1>
+<h1 align="center">Project Picture : 🖼️</h1>
 <div align="center">
   <img src="/pic1.png" width="300px" />
-  <img src="/pic2.png" width="300px" />
-  <img src="/pic3.png" width="300px" />
 </div>
