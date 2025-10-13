@@ -1,53 +1,75 @@
-<div>
-  <h1>Click on the GitHub icon below to view the project online.</h1>
+<div align="center">
+  <h1>🎵 Mobile Music Player</h1>
+  <p>Modern, mobile-first music player with smooth animations and responsive design 📱</p>
   <a href="https://hamiparsa.github.io/Phone-Music-Player/">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Live_Project-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </div>
 
-Mobile Music Player Project 🎵📱
+---
 
-This is a mobile-first web music player application with interactive features and responsive design for smartphones and tablets.
+## 📝 About the Project
 
-Features:
+**Mobile Music Player** is a mobile-optimized web application for playing music with interactive features.  
+Built using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, it provides a modern, smooth, and responsive interface for smartphones and tablets.
+
+---
+
+## ⚡ Features
+
 <ul>
-  <li>Play, pause, skip to next/previous songs</li>
-  <li>Display current track info: title, artist, album cover</li>
-  <li>Search songs in real-time within the playlist</li>
-  <li>Progress bar with seek functionality</li>
-  <li>Beautiful animated background with stars</li>
-  <li>Fully responsive design optimized for mobile screens</li>
+  <li>▶️ <b>Play / Pause / Skip</b> — Control music playback effortlessly</li>
+  <li>🎵 <b>Track Info Display</b> — See title, artist, and album cover</li>
+  <li>🔍 <b>Search Songs</b> — Real-time search within the playlist</li>
+  <li>⏱️ <b>Progress Bar & Seek</b> — Navigate within tracks easily</li>
+  <li>✨ <b>Animated Starry Background</b> — Smooth interactive visuals</li>
+  <li>💻 <b>Mobile Responsive</b> — Optimized for phones and tablets</li>
 </ul>
 
-Technologies Used:
-<ul>
-  <li>
-    React for building UI components
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-  <li>
-    Next.js for server-side rendering and routing
-    <img width='20px' src='https://skillicons.dev/icons?i=next'>
-  </li>
-  <li>
-    TypeScript for type safety and maintainable code
-    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
-  </li>
-  <li>
-    Tailwind CSS for fast and responsive styling
-    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
-  </li>
-</ul>
+---
 
-Description:
+## 🧰 Tech Stack
 
-This project demonstrates a modern mobile-friendly music player built with React and Next.js. Users can search, play, pause, and skip songs, see the track info, and enjoy an animated starry background. The player supports playlist management and smooth scroll to the currently playing track.  
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ **React** | Building interactive UI components |
+| 🧭 **Next.js** | Routing and server-side rendering |
+| 🟦 **TypeScript** | Type safety and maintainable code |
+| 🎨 **Tailwind CSS** | Modern, responsive design |
 
-It's perfect for learning React, Next.js, TypeScript, and Tailwind CSS through a real-world interactive application.
+---
 
-<hr/>
+## 💡 Description
 
-<h1 align="center">Project Picture : 🖼️</h1>
+This project demonstrates a mobile-first music player with playlist management and smooth animations. Users can:
+
+- Search and play songs  
+- View track info including title, artist, and album cover  
+- Skip tracks forward and backward  
+- Enjoy animated starry backgrounds  
+- Experience fully responsive design optimized for mobile devices  
+
+Perfect for practicing **React**, **Next.js**, **TypeScript**, and **Tailwind CSS** in a real-world interactive project.
+
+---
+
+## 🖼️ Project Preview
+
+<h3 align="center">✨ Screenshots ✨</h3>
+
 <div align="center">
   <img src="/pic1.png" width="700px" />
+</div>
+
+---
+
+## 👨‍💻 Author
+
+**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+💬 Front-End Developer | Passionate about mobile-friendly interactive UI  
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind" />
 </div>
